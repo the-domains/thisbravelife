@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thisbravelife]]></title>
         <description><![CDATA[thisbravelife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thisbravelife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 00:10:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 16:23:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thisbravelife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ceafdb-e88a-4fd0-a98d-8c83741ccdf1.jpg">]]></description>
-            <link>undefined1bce7391-92c2-4c14-a6ee-82b79ea01a39/index.html</link>
+            <link>https://thegrid.ai/thisbravelife/1bce7391-92c2-4c14-a6ee-82b79ea01a39/index.html</link>
             <guid isPermaLink="false">1bce7391-92c2-4c14-a6ee-82b79ea01a39</guid>
-            <pubDate>Sat, 19 Mar 2016 00:10:03 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 16:23:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
